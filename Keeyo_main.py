@@ -46,4 +46,21 @@ if  __name__ == "__main__":
                     speak("Ok Sir, You can call me again whenever you want")
                     
                     break
+
+                    elif "hello" in query:
+                    speak("Hello sir, How Are You")
+                
+                elif "i am fine":
+                    speak("That's great sir")
+
+                elif "How are you" in query:
+                    speak("perfect sir")
+
+                elif "thank you" in query:
+                    speak("welcome sir")
+
+                elif "google" in query:
+                    from
+
+                
     
